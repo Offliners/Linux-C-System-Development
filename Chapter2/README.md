@@ -13,3 +13,5 @@
 * #### [使用goto敘述實現for迴圈](code/for_goto.c)
 * #### [使用switch敘述的C語言程式](code/switch.c)
 * #### [使用goto敘述實現switch敘述](code/switch_goto.c)
+* #### [使用移位元操作代替程式中的乘除法運算](code/shift.c)
+* #### [計算1~n之間所有整數的和](code/sum_fast.c)

@@ -62,8 +62,8 @@ int convert()
         err1:
                 fclose(fp);
 
-
         err2:
                 free(p);
+        
         return 0;
 }

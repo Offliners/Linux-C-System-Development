@@ -9,3 +9,7 @@
 * #### [使用goto敘述實現while迴圈](code/while_goto.c)
 * #### [使用do...while迴圈實現計算一個整數的階乘](code/do_while.c)
 * #### [使用goto敘述實現do...while迴圈](code/do_while_goto.c)
+* #### [使用for迴圈實現由1到n的n個數的合](code/for.c)
+* #### [使用goto敘述實現for迴圈](code/for_goto.c)
+* #### [使用switch敘述的C語言程式](code/switch.c)
+* #### [使用goto敘述實現switch敘述](code/switch_goto.c)

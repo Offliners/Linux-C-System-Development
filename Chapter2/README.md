@@ -7,5 +7,5 @@
 * #### [使用逐位元運算的C語言or實例](code/or.c)
 * #### [使用while迴圈實現計算一個整數的階乘](code/while.c)
 * #### [使用goto敘述實現while迴圈](code/while_goto.c)
-* #### [使用d0...while迴圈實現計算一個整數的階乘](code/do_while.c)
+* #### [使用do...while迴圈實現計算一個整數的階乘](code/do_while.c)
 * #### [使用goto敘述實現do...while迴圈](code/do_while_goto.c)

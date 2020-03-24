@@ -17,7 +17,7 @@
 * [計算1~n之間所有整數的和](code/sum_fast.c)
 * [使用條件分支結構統計字元(慢)](code/slow.c)
 * [使用條件分支結構統計字元(快)](code/fast.c)
-* [使用者輸入的一個字元輸出相應的分數(if...else)](code/score_if.c)
+* [使用者輸入的一個字元輸出相應的分數(if...else)](code/score_ifelse.c)
 * [使用者輸入的一個字元輸出相應的分數(switch)](code/score_switch.c)
 * [效率低的大小寫轉換程式](code/low_transform.c)
 * [效率高的大小寫轉換程式](code/fast_transform.c)

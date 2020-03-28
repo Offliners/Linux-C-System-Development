@@ -3,6 +3,7 @@
 * [控制結構](Chapter2/README.md)
 * [C語言中的函數](Chapter3/README.md)
 * [makefile](Chapter8/README.md)
+* [執行緒環境](Chapter10/README.md)
 * [執行緒控制](Chapter11/README.md)
 * [時間和日曆歷程](Chapter12/README.md)
 
